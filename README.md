@@ -6,7 +6,7 @@ This is my first edit in my first repository in my first.. i dont know what ever
 
 
 
-##i How to commit your changes
+## How to commit your changes
 
 git add .
 
